@@ -3,7 +3,7 @@
 During The Bizz-Code challenge hosted by KPMG-Software Malta, my team and I managed to come up with a business plan for an application which aims to target the parking problem on the Maltese islands.
 
 <ul>
-  <b>Within the file directory you will find:<b>
+  <b>Within the file directory you will find:</b>
   <li>App mock-up found in pdf format (made with Invision)</li>
   <li>Launch page source code (js, html, css)</li>
 </ul>
