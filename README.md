@@ -9,6 +9,6 @@ During The Bizz-Code challenge hosted by KPMG-Software Malta, my team and I mana
 </ul>
   
 The mock-up was constructed by a UX student Noel D'anastasi & myself.
-The pre-launch page was inspired by a template I had found online (https://startbootstrap.com/template-overviews/new-age/), and was changed to satisfy our needs for the presentation. 
+The pre-launch page was inspired by a template I had found online (New Age - davidtmiller), and was changed to satisfy our needs for the presentation. 
 
 Thanks to various components added to the presentation and 3 sleeples nights of hard-work, my team i-Park Solutions, managed to take home the prize, making the sacrifice well worth it!
